@@ -36,6 +36,7 @@ Feel free to reach out!
 ![GitHub followers](https://img.shields.io/github/followers/manuelaramirezq)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=manuelaramirezq&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=manuelaramirezq&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
