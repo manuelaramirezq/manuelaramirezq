@@ -40,3 +40,11 @@ Feel free to reach out!
 ![](https://github-readme-stats.vercel.app/api?username=manuelaramirezq&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### :zap: Mi actividad Reciente
+<!-- START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update_end-->
